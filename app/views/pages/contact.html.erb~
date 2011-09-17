@@ -1,0 +1,15 @@
+<DOCTYPE html>
+<html>
+  <head>
+    <title>Ruby on Rails Tutorial Sample App | <%= @title %> </title>
+  </head>
+  <bodyy>
+
+  </body>
+    <h1>Contact</h1>
+    <p>
+      Contact ruby on Rails Tutorial about the smaple app at the
+      <a href="http:railstutorial.org/feedback">feedback page</a>
+    </p>
+  </body>
+</html>

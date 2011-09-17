@@ -29,7 +29,7 @@ describe PagesController do
   
   it "should have a non_blank body" do
     get 'home'
-    response.body.should_not =~ /<body>\s*<\/body>
+    response.body.should_not =~ //
   end
   
   describe "GET 'about'" do
